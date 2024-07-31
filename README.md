@@ -15,7 +15,7 @@ Ella is a chatbot designed to help users find hotels in Nigeria. It provides det
 - Required Python packages:
   - `google-generativeai`
   - `textblob`
-  - 'googlemaps'
+  - `googlemaps`
 
 ## Installation
 
