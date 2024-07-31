@@ -9,6 +9,8 @@ Ella is a chatbot designed to help users find hotels in Nigeria. It provides det
 - Includes sentiment analysis to adjust responses based on user sentiment
 - Takes feedback to improve on development.
 
+  All responses are based on informations gotten through googlemaps and gemini ai integration. For now real time informations are not all available due to the limited access to hotel datas.
+
 ## Requirements
 
 - Python 3.x
@@ -21,5 +23,5 @@ Ella is a chatbot designed to help users find hotels in Nigeria. It provides det
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/KhAyRaH01/ella-hotel-assistant.git
+   git clone https://github.com/KhAyRaH01/ella-python-implementation.git
    cd ella-hotel-assistant
